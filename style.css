@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.highlight {
+  background: yellow;
+  color: red;
+}
